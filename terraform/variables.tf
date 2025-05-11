@@ -10,4 +10,4 @@ variable "clusterName" {
   default     = "diploma-cluster-1927"
 }
 
-####
+##
