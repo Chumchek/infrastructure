@@ -7,7 +7,7 @@ variable "region" {
 variable "clusterName" {
   description = "Name of the EKS cluster"
   type        = string
-  default     = "vprofile-eks-1927"
+  default     = "diploma-cluster-1927"
 }
 
 ####
